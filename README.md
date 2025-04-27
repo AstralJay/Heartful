@@ -12,7 +12,7 @@ Features:
 
 🔒 Secure customer login and authentication
 
-📱 Mobile-first responsive design, adapted for Android and iOS
+📱 Mobile-first responsive design, adapted for Android and iOS platforms
 
 💻 Fully functional Desktop Web version
 
